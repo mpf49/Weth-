@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+    margin: 0%;
+    background-color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: calc(60px + 2vmin);
+    color: rgb(41, 37, 33);
+}
